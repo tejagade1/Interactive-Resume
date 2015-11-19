@@ -1,0 +1,88 @@
+html {
+    background-color: #bfbeba;
+}
+
+body {
+    margin: 0 auto;
+    padding: 2em;
+    max-width: 800px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    color: #333333;
+    background-color: #ffffff;  
+}
+
+h1, h2 {
+    line-height: 1.3em;
+}
+
+#content h3 {
+    text-align:center;
+}
+
+#header img {
+    float:right;
+    border-radius: 2px;
+    padding: 15px 10px 10px;
+    margin: 10px 0;
+    max-width: 95%;
+}
+
+#technical_knowledge table.center {
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    border-collapse:collapse;
+}
+
+th {
+    height: 50px;
+    border:1px solid #98bf21;
+    padding:3px 7px 2px 7px;
+    font-size:1.1em;
+    text-align:left;
+    padding-top:5px;
+    padding-bottom:4px;
+    background-color:#A7C942;
+    color:#ffffff;
+}
+
+td {
+    border:1px solid #98bf21;
+    padding:3px 7px 2px 7px;
+    vertical-align:bottom;
+    text-align:left;
+    width: inherit;
+    height:30px;
+}
+
+tr.alternate td {
+    color:#000000;
+    background-color:#EAF2D3;  
+}
+#activities abbr {
+    border-bottom: dotted #A2A8A3;
+}
+
+#educational_background img {
+    float: right;
+    border-radius: 1px;
+    padding: 5px 5px 5px;
+    margin: 5px 0;
+    max-width: 75%;
+    height: 40px;
+    width: 40px;
+}
+
+.languages a:link {
+    color:#0000ff;
+}
+
+.languages a:visited {
+    color:#0000ff;
+}
+
+.languages a:hover {
+    background:#66ff66;
+}
